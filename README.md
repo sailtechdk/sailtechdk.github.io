@@ -1,1 +1,1 @@
-# sailtechdk..github.io
+# sailtechdk.github.io
